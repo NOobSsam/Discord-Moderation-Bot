@@ -18,7 +18,7 @@ Make a folder for which your bot's coding will be in
 
 ### Step two, opening powershell
 Do shift + right click and select open powershell (or cmd depending on your PC)
-![Step two](https://imgur.com/a/N0LqPqe "Step two")
+![Step two](https://imgur.com/Ibndzpl "Step two")
 
 
 ### Step three, initiating, type `npm init`
