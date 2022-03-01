@@ -2,7 +2,7 @@
 
 
 # Getting started (Add Star ⭐ <3)
-
+<img hight="20" width="400" alt="GIF" align="right" src="https://readme-typing-svg.herokuapp.com?color=%232F74F7&lines=Add+Star+!+%E2%9D%A4%EF%B8%8F+%F0%9F%A7%A1+%F0%9F%92%9B+%F0%9F%92%9A+%F0%9F%92%99+%F0%9F%92%9C+%F0%9F%96%A4+%F0%9F%A4%8D">
 
 ### Requirements
 * Node.js
