@@ -34,7 +34,7 @@ Place your bot's token **between** the quotation marks, you can also edit the pr
 ![Step six](https://i.imgur.com/dy7OSYW.png "Step six")
 
 ### 🗝 Step six, running your bot
-Run your bot by typing `node bot` into your powershell/cmd
+Run your bot by typing `node bot.js` into your powershell/cmd
 
 ### 🗝 Step seven, adding your bot to your server
 Use this link and replace **client_id_here** with your actual client ID
